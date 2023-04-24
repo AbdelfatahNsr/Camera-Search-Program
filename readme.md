@@ -6,11 +6,11 @@ Build and run the console application.
 Pass command line arguments when running the application. For example:
 
 ```
-myConsoleApp.exe -n Neude
+CLI.exe -n Neude
 ```
 or
 ```
-myConsoleApp.exe --name Mariastraat
+CLI.exe --name Mariastraat
 ```
 The code will process the provided arguments and display the camera data from a CSV file based on the argument provided. If no arguments are provided, it will display a message stating "No arguments provided." If an unrecognized argument is provided, it will display an error message.
 
