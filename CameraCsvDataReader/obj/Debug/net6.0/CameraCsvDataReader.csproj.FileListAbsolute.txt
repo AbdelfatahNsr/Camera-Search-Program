@@ -1,0 +1,15 @@
+C:\Users\Abdelfatah\source\repos\CLI Search Program\CameraCsvDataReader\bin\Debug\net6.0\CameraCsvDataReader.deps.json
+C:\Users\Abdelfatah\source\repos\CLI Search Program\CameraCsvDataReader\bin\Debug\net6.0\CameraCsvDataReader.dll
+C:\Users\Abdelfatah\source\repos\CLI Search Program\CameraCsvDataReader\bin\Debug\net6.0\CameraCsvDataReader.pdb
+C:\Users\Abdelfatah\source\repos\CLI Search Program\CameraCsvDataReader\obj\Debug\net6.0\CameraCsvDataReader.csproj.AssemblyReference.cache
+C:\Users\Abdelfatah\source\repos\CLI Search Program\CameraCsvDataReader\obj\Debug\net6.0\CameraCsvDataReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdelfatah\source\repos\CLI Search Program\CameraCsvDataReader\obj\Debug\net6.0\CameraCsvDataReader.AssemblyInfoInputs.cache
+C:\Users\Abdelfatah\source\repos\CLI Search Program\CameraCsvDataReader\obj\Debug\net6.0\CameraCsvDataReader.AssemblyInfo.cs
+C:\Users\Abdelfatah\source\repos\CLI Search Program\CameraCsvDataReader\obj\Debug\net6.0\CameraCsvDataReader.csproj.CoreCompileInputs.cache
+C:\Users\Abdelfatah\source\repos\CLI Search Program\CameraCsvDataReader\obj\Debug\net6.0\CameraCsvDataReader.dll
+C:\Users\Abdelfatah\source\repos\CLI Search Program\CameraCsvDataReader\obj\Debug\net6.0\refint\CameraCsvDataReader.dll
+C:\Users\Abdelfatah\source\repos\CLI Search Program\CameraCsvDataReader\obj\Debug\net6.0\CameraCsvDataReader.pdb
+C:\Users\Abdelfatah\source\repos\CLI Search Program\CameraCsvDataReader\obj\Debug\net6.0\ref\CameraCsvDataReader.dll
+C:\Users\Abdelfatah\source\repos\CLI Search Program\CameraCsvDataReader\bin\Debug\net6.0\SystemSettings.dll
+C:\Users\Abdelfatah\source\repos\CLI Search Program\CameraCsvDataReader\bin\Debug\net6.0\SystemSettings.pdb
+C:\Users\Abdelfatah\source\repos\CLI Search Program\CameraCsvDataReader\obj\Debug\net6.0\CameraCsvDataReader.csproj.CopyComplete

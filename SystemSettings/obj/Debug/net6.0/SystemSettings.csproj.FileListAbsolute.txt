@@ -1,0 +1,12 @@
+C:\Users\Abdelfatah\source\repos\CLI Search Program\SystemSettings\bin\Debug\net6.0\SystemSettings.deps.json
+C:\Users\Abdelfatah\source\repos\CLI Search Program\SystemSettings\bin\Debug\net6.0\SystemSettings.dll
+C:\Users\Abdelfatah\source\repos\CLI Search Program\SystemSettings\bin\Debug\net6.0\SystemSettings.pdb
+C:\Users\Abdelfatah\source\repos\CLI Search Program\SystemSettings\obj\Debug\net6.0\SystemSettings.csproj.AssemblyReference.cache
+C:\Users\Abdelfatah\source\repos\CLI Search Program\SystemSettings\obj\Debug\net6.0\SystemSettings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdelfatah\source\repos\CLI Search Program\SystemSettings\obj\Debug\net6.0\SystemSettings.AssemblyInfoInputs.cache
+C:\Users\Abdelfatah\source\repos\CLI Search Program\SystemSettings\obj\Debug\net6.0\SystemSettings.AssemblyInfo.cs
+C:\Users\Abdelfatah\source\repos\CLI Search Program\SystemSettings\obj\Debug\net6.0\SystemSettings.csproj.CoreCompileInputs.cache
+C:\Users\Abdelfatah\source\repos\CLI Search Program\SystemSettings\obj\Debug\net6.0\SystemSettings.dll
+C:\Users\Abdelfatah\source\repos\CLI Search Program\SystemSettings\obj\Debug\net6.0\refint\SystemSettings.dll
+C:\Users\Abdelfatah\source\repos\CLI Search Program\SystemSettings\obj\Debug\net6.0\SystemSettings.pdb
+C:\Users\Abdelfatah\source\repos\CLI Search Program\SystemSettings\obj\Debug\net6.0\ref\SystemSettings.dll
